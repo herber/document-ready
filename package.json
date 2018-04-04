@@ -1,0 +1,30 @@
+{
+	"name": "@document/ready",
+	"version": "1.0.0",
+	"description": "Simple document ready listener",
+	"license": "MIT",
+	"repository": "herber/document-ready",
+	"author": {
+		"name": "Tobias Herber",
+		"email": "tobihrbr@gmail.com",
+		"url": "tobihrbr.com"
+	},
+	"engines": {
+		"node": ">=8"
+	},
+	"scripts": {
+		"test": "formatted"
+	},
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"document",
+		"ready",
+		"loaded",
+		"dom"
+	],
+	"devDependencies": {
+		"formatted": "^1.0.0"
+	}
+}
